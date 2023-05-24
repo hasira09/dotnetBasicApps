@@ -1,0 +1,11 @@
+D:\C#\TechnicalInterview\bin\Debug\TechnicalInterview.exe.config
+D:\C#\TechnicalInterview\bin\Debug\TechnicalInterview.exe
+D:\C#\TechnicalInterview\bin\Debug\TechnicalInterview.pdb
+D:\C#\TechnicalInterview\obj\Debug\TechnicalInterview.csproj.AssemblyReference.cache
+D:\C#\TechnicalInterview\obj\Debug\TechnicalInterview.csproj.SuggestedBindingRedirects.cache
+D:\C#\TechnicalInterview\obj\Debug\TechnicalInterview.Properties.Resources.resources
+D:\C#\TechnicalInterview\obj\Debug\TechnicalInterview.csproj.GenerateResource.cache
+D:\C#\TechnicalInterview\obj\Debug\TechnicalInterview.csproj.CoreCompileInputs.cache
+D:\C#\TechnicalInterview\obj\Debug\TechnicalInterview.exe
+D:\C#\TechnicalInterview\obj\Debug\TechnicalInterview.pdb
+D:\C#\TechnicalInterview\obj\Debug\TechnicalInterview.Form1.resources
